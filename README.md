@@ -7,8 +7,8 @@ This is the official codebase for the paper [OBJect 3DIT: Language-guided 3D-awa
 First clone this repository.
 
 ```bash
-git clone link
-cd repo
+git clone https://github.com/allenai/object-edit.git
+cd object-edit
 mkdir DATASET
 ```
 
